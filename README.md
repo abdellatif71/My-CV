@@ -37,3 +37,5 @@ This project contains a web-based resume for Abdellatif Abouelabbes, a frontend 
 - **Phone**: +212 6 04 73 64 96
 
 ## License
+
+This project is open-source and can be used for personal or educational purposes. Please give appropriate credit when using or modifying the content.
