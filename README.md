@@ -38,4 +38,4 @@ This project contains a web-based resume for Abdellatif Abouelabbes, a frontend 
 
 ## License
 
-This project is open-source and can be used for personal or educational purposes. Please give appropriate credit when using or modifying the content.
+
