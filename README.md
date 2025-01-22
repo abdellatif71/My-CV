@@ -34,7 +34,7 @@ This project contains a web-based resume for Abdellatif Abouelabbes, a frontend 
 - **Name**: Abdellatif Abouelabbes
 - **Location**: Azli, Marrakech, Marokko
 - **Email**: [abouabdellatif.9@gmail.com](mailto:abouabdellatif.9@gmail.com)
-- **Phone**: +212 6 04 73 64 96
+- **Phone**: 
 
 ## License
 
