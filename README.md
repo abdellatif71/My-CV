@@ -1,4 +1,4 @@
-# Abdellatif Abouelabbes - Lebenslauf (Resume)
+# Abdellatif Abouelabbes - (Resume)
 
 This project contains a web-based resume for Abdellatif Abouelabbes, a frontend developer with extensive experience in web and app development. The resume highlights skills, education, experience, and projects, along with personal interests and language proficiency.
 
